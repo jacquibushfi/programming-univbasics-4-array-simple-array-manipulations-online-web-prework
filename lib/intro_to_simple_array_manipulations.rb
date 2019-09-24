@@ -50,8 +50,8 @@ def using_delete(array, string)
 end
 
 element = 1
-def using_delet_at(array, element)
-  array.delet_at(element)
+def using_delete_at(array, element)
+  array.delete_at(element)
 end
 
 
