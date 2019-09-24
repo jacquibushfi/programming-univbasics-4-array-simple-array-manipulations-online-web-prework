@@ -1,3 +1,3 @@
-artists = ["Hozier", "Ariana Grande", "Usher"]
+array ozier", "Ariana Grande", "Usher"]
 
 def using_push()
