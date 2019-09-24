@@ -1,3 +1,3 @@
-array ozier", "Ariana Grande", "Usher"]
+arra["Hozier", "Ariana Grande", "Usher"]
 
 def using_push()
