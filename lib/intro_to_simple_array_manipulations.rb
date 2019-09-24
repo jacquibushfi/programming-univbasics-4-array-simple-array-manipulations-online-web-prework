@@ -21,3 +21,4 @@ array = ["Hozier", "Ariana Grande", "Usher"]
 def using_shift(array)
   array.shift
 end
+
