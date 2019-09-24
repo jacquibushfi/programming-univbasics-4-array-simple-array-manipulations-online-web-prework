@@ -4,3 +4,7 @@ string = "Freida"
 def using_push(array, string)
   array.push(string)
 end
+
+string = "Pablo Picasso"
+def using_unshift(array, string)
+  array.unshift(string)
